@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B-tech (CSE) student <br>I am currently learning DSA in C++ <br>I have also started to learn AI and ML <br>I want to build real world AI projects<br>I like to play badminton and chess
+I am a B-tech (CSE) student <br>I am currently learning DSA in C++ <br>I have also started to learn AI and ML <br>I want to build real world AI projects
 
 
 ## 🌐 Socials:
