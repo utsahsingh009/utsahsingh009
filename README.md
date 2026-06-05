@@ -2,12 +2,13 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=600&lines=B-Tech+(CSE)+Student;Currently+Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=500&lines=B-Tech+(CSE)+Student;Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/a3U9N47O8u8B61cMsc/giphy.gif" alt="Pixel Samurai Landscape" width="100%" height="250">
+  <!-- This pulls the samurai gif directly from your repo and stretches it wider -->
+  <img src="samurai.gif" alt="Samurai Banner" width="850" height="250">
 </div>
 
 <br>
@@ -16,10 +17,6 @@
 - ⚔️ I am a B-tech (CSE) student.
 - 💻 I am currently learning **DSA in C++**.
 - 🌀 Always open to learning new technologies and collaborating on projects.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <div align="center">
 
@@ -37,8 +34,10 @@
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <!-- Reliable GitHub-hosted neon divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 </div>
+<br>
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -60,8 +59,6 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/20GoQv0a3H12u4Hq34/giphy.gif" width="50" height="50" />
-  <br>
   <a href="https://github.com/utsahsingh009">
     <img src="https://komarev.com/ghpvc/?username=utsahsingh009&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
