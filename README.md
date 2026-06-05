@@ -8,7 +8,7 @@ I am currently learning DSA in C++
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsahsingh944@gmail.com) 
 
 ## 🏆 Competitive Programming:
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/Moon_Knight_45)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/utsahsingh009)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/utsah_45)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/uts_45)
 
