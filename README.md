@@ -7,13 +7,19 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="coding animation" width="100%">
+  <img src="https://media.giphy.com/media/a3U9N47O8u8B61cMsc/giphy.gif" alt="Pixel Samurai Landscape" width="100%" height="250">
 </div>
 
+<br>
+
 ## 💫 About Me:
-- 🎓 I am a B-tech (CSE) student.
+- ⚔️ I am a B-tech (CSE) student.
 - 💻 I am currently learning **DSA in C++**.
-- 🌱 Always open to learning new technologies and collaborating on projects.
+- 🌀 Always open to learning new technologies and collaborating on projects.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
@@ -27,6 +33,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/utsah_45)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/uts_45)
 
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 💻 Tech Stack:
@@ -49,6 +60,8 @@
 
 ---
 <div align="center">
+  <img src="https://media.giphy.com/media/20GoQv0a3H12u4Hq34/giphy.gif" width="50" height="50" />
+  <br>
   <a href="https://github.com/utsahsingh009">
     <img src="https://komarev.com/ghpvc/?username=utsahsingh009&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
