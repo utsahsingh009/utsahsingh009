@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=435&lines=B-Tech+(CSE)+Student;Currently+Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsahsingh009&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=utsahsingh009&theme=merko&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=utsahsingh009&theme=merko&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsahsingh009&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
@@ -60,7 +60,7 @@
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=utsahsingh009&icon=6&color=0" alt="Profile Views" />
+  <a href="https://github.com/utsahsingh009">
+    <img src="https://komarev.com/ghpvc/?username=utsahsingh009&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
