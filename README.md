@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=435&lines=B-Tech+(CSE)+Student;Currently+Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=600&lines=B-Tech+(CSE)+Student;Currently+Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,17 +43,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLFlow"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsahsingh009&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=utsahsingh009&theme=merko&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsahsingh009&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
