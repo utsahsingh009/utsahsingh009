@@ -33,11 +33,6 @@
 </div>
 
 <br>
-<div align="center">
-  <!-- Reliable GitHub-hosted neon divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
-</div>
-<br>
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -55,10 +50,25 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
+<br>
+
+## 🐍 Contribution Snake:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/utsahsingh009/utsahsingh009/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <br/>
 
 ---
 <div align="center">
+  <!-- Reliable GitHub-hosted neon divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+  <br><br>
+  <!-- Animated Thanks for Visiting Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Thanks+for+visiting,+see+you+later!" alt="Thanks for visiting" />
+  </a>
+  <br><br>
   <a href="https://github.com/utsahsingh009">
     <img src="https://komarev.com/ghpvc/?username=utsahsingh009&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
