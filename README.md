@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=27B2A4&center=true&vCenter=true&width=500&lines=B-Tech+(CSE)+Student;Learning+DSA+in+C%2B%2B;Tech+Enthusiast" alt="Typing SVG" />
